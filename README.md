@@ -1,5 +1,5 @@
 # kitchenComputer
-designed touch screen displays
+kitchen helper app designed for touch screen displays
 
 `npm install`
 
