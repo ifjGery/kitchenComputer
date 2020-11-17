@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*", "__mocks__", "__tests__/components/App.test.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
