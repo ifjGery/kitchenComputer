@@ -11,11 +11,11 @@
     "moduleResolution": "node",
     "baseUrl": "./",
     "paths": {
-      "Components": ["packages/ui-components"],
+      "Components/*": ["packages/ui-components/*"],
     }
   },
   "include": [
-    "packages",
+    "packages/**/*",
     "__mocks__",
     "__tests__/components/App.test.tsx"
   ],
