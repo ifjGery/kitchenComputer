@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as renderer from 'react-test-renderer';
-import App from '../../src/components/app/index';
+import App from '../../packages/ui-components/app/index';
 
 test('Hello world is displayed', () => {
   const component = renderer.create(<App />);

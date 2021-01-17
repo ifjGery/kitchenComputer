@@ -1,3 +1,4 @@
 node_modules
 dist
-src/**/*.d.ts
+packages/**/*.d.ts
+*.log
